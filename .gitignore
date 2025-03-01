@@ -1,0 +1,14 @@
+# Bağımlılık klasörünü hariç tut
+node_modules/
+
+# Derlenmiş dosyaları hariç tut
+dist/
+build/
+
+# Çevresel değişkenler (API anahtarları)
+.env
+
+# IDE ve işletim sistemi gereksiz dosyaları
+.DS_Store
+.idea/
+.vscode/
