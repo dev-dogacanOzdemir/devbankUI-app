@@ -1,7 +1,7 @@
 # devbank-UI  
 
 <p align="center">
-  <img width="400" height="400" src="/src/assets/devbankLogoWhite.png">
+  <img width="800" height="400" src="src/assets/devbankLogoTitleWhite.png">
 </p>
 
 ## 📌 **Proje Açıklaması**  
